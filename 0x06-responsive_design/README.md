@@ -1,0 +1,1 @@
+this project is making you learn how to transform your web page from an adaptive one to a responsive one 
